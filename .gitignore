@@ -1,0 +1,58 @@
+# Obsidian-specific files and folders
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/**/*
+.obsidian/snippets/**/*
+.obsidian/themes/**/*
+.obsidian/cache/**
+.obsidian/backups/**
+.obsidian/globalgraph.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/appearance.json
+.obsidian/templates.json
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.temp
+*~
+
+# Operating system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Application-specific files
+*.log
+*.pid
+*.swp
+*.swo
+
+# Media files (optional - uncomment if you don't want to track large media)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.mov
+# *.mp3
+# *.pdf
+
+# Sync and backup files
+*-conflict-*
+*.sync-conflict-*
+.obsidian/.obsidian
+
+# Obsidian mobile cache
+.mobilecache/**
+.obsidian/mobile.json
+
+# Temporary editor files
+*.un~
+*.orig
