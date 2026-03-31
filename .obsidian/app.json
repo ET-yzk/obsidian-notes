@@ -1,4 +1,6 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true
 }
